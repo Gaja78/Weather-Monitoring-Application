@@ -1,11 +1,18 @@
 # 🌦️ Weather Monitoring System 
 
 
+
 ## Live Demo
 
 You can see the live demo of the application at the following link:
-[Live Demo]([https://your-live-demo-link.com](https://babureddynr.github.io/spring-html-pages/whetherapp.html))
+[Live Demo](https://babureddynr.github.io/spring-html-pages/whetherapp.html)
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Home Page
+![Home Page](https://your-screenshot-link.com/homepage.png)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
