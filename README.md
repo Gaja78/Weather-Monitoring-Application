@@ -12,7 +12,7 @@ You can see the live demo of the application at the following link:
 Here are some screenshots of the application:
 
 ### Home Page
-![Home Page](https://your-screenshot-link.com/homepage.png)
+![Home Page](https://github.com/babureddynr/spring-html-pages/blob/main/whether-app.wallpaer.png)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
