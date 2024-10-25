@@ -179,7 +179,7 @@ Error: Invalid API key
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## 👥 Authors
-- Your Name - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- BABU REDDY NR - *Initial work* - [YourGitHub](https://github.com/babureddynr)
 
 ## 🙏 Acknowledgments
 - OpenWeatherMap API for weather data
